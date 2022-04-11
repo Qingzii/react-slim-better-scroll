@@ -1,0 +1,8 @@
+.better_scroll_pulldown {
+  position: absolute;
+  top: -50px;
+  left: 50%;
+  z-index: 1;
+  transform: translateX(-50%);
+  pointer-events: none;
+}

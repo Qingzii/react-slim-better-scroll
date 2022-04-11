@@ -1,0 +1,13 @@
+.App {
+  > p {
+    width: 140px;
+  }
+  .ul {
+    > li:nth-of-type(odd) {
+      background: rgba($color: #000, $alpha: 0.3);
+    }
+  }
+  .template {
+    display: none;
+  }
+}

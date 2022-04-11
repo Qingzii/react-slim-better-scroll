@@ -1,0 +1,24 @@
+div,
+span,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+i,
+input,
+textarea,
+section {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 0;
+  box-sizing: border-box;
+}
+ul,
+li {
+  list-style: none;
+}
